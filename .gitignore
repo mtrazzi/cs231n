@@ -153,4 +153,5 @@ poms.txt
 # vim
 *.swp
 
-
+# not pushing the data
+data/
